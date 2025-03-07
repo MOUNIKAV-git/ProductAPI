@@ -1,2 +1,2 @@
 # ProductAPI
-WebaPI for displaying the List of products
+WebAPI for displaying the List of products
