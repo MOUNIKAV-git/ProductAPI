@@ -8,3 +8,5 @@ SQL Server
 
 **appsettings.json**
 Please add the proper connection string.
+
+After application ran, swagger will be open. please test through swagger endpoint by passing pagenumber and pagesize.
